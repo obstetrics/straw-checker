@@ -25,3 +25,6 @@ Install dependencies with:
 
 ```bash
 pip install cloudscraper colorama
+
+# Every Last Straw.Page 2 character username
+  `https://files.catbox.moe/4145p8.txt`
